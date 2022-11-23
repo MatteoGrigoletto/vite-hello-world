@@ -2,14 +2,14 @@
 export default {
   data() {
     return {
-      title: 'Il titolo della pagina'
+      title: 'La mia prima app con Vite!!',
     }
   }
 }
 </script>
 
 <template>
-  <h1>{{ title }}</h1>
+  <h2>{{ title }}</h2>
 </template>
 
 <style scoped></style>
